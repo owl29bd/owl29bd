@@ -41,20 +41,6 @@ I am a passionate software engineer currently pursuing my degree in Software Eng
 
 - **[iShootStation](https://github.com/shanto-swe029/swingLibrary):** A 2D space shooter game developed using Java, Gradle, and the LibGDX framework, featuring core gameplay mechanics, enemy AI, and cross-platform integration.
 
-
-<dl>
-  <dt>HTML definition list</dt>
-  <dd>
-    <div class="github-card" data-github="shanto-swe029/littleDisClone" data-width="400" data-height="" data-theme="default"></div>
-<!--     <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script> -->
-  </dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Once in HTML you cannot use Markdown syntax 
-    (e.g. *not*, **very**). Instead you have to rely 
-    entirely on <strong>HTML tags</strong>.</dd>
-</dl>
-
 ### 🏆 Achievements
 
 - **1000+ Problems Solved** on various online judges, including StopStalk and VJudge, which has sharpened my problem-solving and analytical skills.
