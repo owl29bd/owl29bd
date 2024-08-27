@@ -22,10 +22,19 @@ Here are some ideas to get you started:
 I am a passionate software engineer currently pursuing my degree in Software Engineering from Shahjalal University of Science and Technology. My journey in tech is driven by curiosity and a desire to solve complex problems through innovative solutions. 
 
 ### 🌟 My Skill Set
+<!--
 - **Languages:** C, C++, Java, JavaScript, Assembly
 - **Frameworks:** Next.js, Java Swing
 - **Libraries:** React.js, LibGDX, Tailwind CSS
 - **Databases:** MongoDB, MySQL, PostgreSQL
+-->
+
+| Particulars  | Details                            |
+|--------------|------------------------------------|
+| _Languages_  | C, C++, Java, JavaScript, Assembly |
+| _Frameworks_ | Next.js, Java Swing                |
+| _Libraries_  | React.Js, Tailwind CSS, LibGDX     |
+| _Databases_  | MySQL, PostgreSQL, MongoDB         |
 
 ### 🚀 Projects
 
