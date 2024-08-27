@@ -32,7 +32,7 @@ I am a passionate software engineer currently pursuing my degree in Software Eng
 | Particulars  | Details                            |
 |--------------|------------------------------------|
 | _Languages_  | C, C++, Java, JavaScript, Assembly |
-| _Frameworks_ | Next.js, Java Swing                |
+| _Frameworks_ | Next.js, Nest.js, Java Swing       |
 | _Libraries_  | React.Js, Tailwind CSS, LibGDX     |
 | _Databases_  | MySQL, PostgreSQL, MongoDB         |
 
