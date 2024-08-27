@@ -37,7 +37,7 @@ I am a passionate software engineer currently pursuing my degree in Software Eng
 | _Databases_  | MySQL, PostgreSQL, MongoDB         |
 
 ### 🚀 Projects
-
+<!--
 - **[To--rna--Do](https://github.com/shanto-swe029/To--rna--Do):** A full-stack ToDo application using the MERN stack with features like add, edit, delete, and mark as complete. Designed a responsive UI and ensured data persistence.
   
 - **[iStoreOnline](https://github.com/shanto-swe029/iStoreOnline):** An online bookstore application built with the MERN stack, implementing CRUD operations, CORS, and a user-friendly interface.
@@ -49,6 +49,16 @@ I am a passionate software engineer currently pursuing my degree in Software Eng
 - **[swingLibrary](https://github.com/shanto-swe029/swingLibrary):** A desktop-based Library Management System using Java Swing, implementing features like managing book inventory, user records, and borrowing history.
 
 - **[iShootStation](https://github.com/shanto-swe029/swingLibrary):** A 2D space shooter game developed using Java, Gradle, and the LibGDX framework, featuring core gameplay mechanics, enemy AI, and cross-platform integration.
+-->
+
+| sl no |                                  Name                                 | Description                                                                                                                                                                                                                                                                                  |
+|:-----:|:---------------------------------------------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   1   |    **[To--rna--Do](https://github.com/shanto-swe029/To--rna--Do)**    | A __full-stack__ ToDo application using the __MERN stack__ with **features** like <br>- _add, <br>- edit, <br>- delete,_ and <br>- _mark as complete_. <br>Designed a __responsive UI__ and ensured __data persistence__.                                                                    |
+|   2   |   **[iStoreOnline](https://github.com/shanto-swe029/iStoreOnline)**   | An online bookstore application built with the __MERN stack__, <br>- implementing __CRUD__ operations, <br>- __CORS__, and <br>- a __user-friendly interface__.                                                                                                                              |
+|   3   | **[littleDisClone](https://github.com/shanto-swe029/littleDisClone)** | A __full-stack__ Discord clone with <br>- __real-time chat__, <br>- __user authentication__, and <br>- __channel management__, <br>- _powered by_ __Next.js__, __Prisma__, and __Tailwind CSS__.                                                                                             |
+|   4   |          **[myABC](https://github.com/shanto-swe029/myABC)**          | A __front-end__ clone of __Airbnb__ with <br>- __property listing__ and <br>- __booking__ features, <br>- built with __Next.js__ and __Tailwind CSS__.                                                                                                                                       |
+|   5   |   **[swingLibrary](https://github.com/shanto-swe029/swingLibrary)**   | A __desktop-based Library Management System__ using __Java Swing__, <br>implementing features like <br>    - managing book inventory, <br>    - user records, and <br>    - borrowing history.<br>- used __OOP__ and __resuable components__<br>- __intuitive GUI for seamless interaction__ |
+|   6   |   **[iShootStation](https://github.com/shanto-swe029/swingLibrary)**  | A __2D space shooter game__ developed using __Java, Gradle__, and the __LibGDX library__, featuring <br>- __core gameplay mechanics__, <br>- __enemy AI__, and <br>- __cross-platform integration__.                                                                                         |
 
 ### 🏆 Achievements
 
